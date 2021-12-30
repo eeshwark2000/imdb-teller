@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/imdb-teller/static/css/main.e503440c.chunk.css",
+    "main.js": "/imdb-teller/static/js/main.f64e44c7.chunk.js",
+    "main.js.map": "/imdb-teller/static/js/main.f64e44c7.chunk.js.map",
+    "runtime-main.js": "/imdb-teller/static/js/runtime-main.23bea296.js",
+    "runtime-main.js.map": "/imdb-teller/static/js/runtime-main.23bea296.js.map",
+    "static/css/2.150d169a.chunk.css": "/imdb-teller/static/css/2.150d169a.chunk.css",
+    "static/js/2.7aaa5926.chunk.js": "/imdb-teller/static/js/2.7aaa5926.chunk.js",
+    "static/js/2.7aaa5926.chunk.js.map": "/imdb-teller/static/js/2.7aaa5926.chunk.js.map",
+    "index.html": "/imdb-teller/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/imdb-teller/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e503440c.chunk.css.map": "/imdb-teller/static/css/main.e503440c.chunk.css.map",
+    "static/js/2.7aaa5926.chunk.js.LICENSE.txt": "/imdb-teller/static/js/2.7aaa5926.chunk.js.LICENSE.txt",
+    "static/media/spinner.35316387.gif": "/imdb-teller/static/media/spinner.35316387.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23bea296.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7aaa5926.chunk.js",
+    "static/css/main.e503440c.chunk.css",
+    "static/js/main.f64e44c7.chunk.js"
+  ]
+}
